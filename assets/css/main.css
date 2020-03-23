@@ -31,6 +31,7 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
+	padding-top: 65px;
 }
 
 ol, ul {
@@ -2711,7 +2712,7 @@ input, select, textarea {
 		color: #FFFFFF;
 		position: fixed;
 		width: 100%;
-		height: 7%;
+		/* height: 7%; */
 		padding: 1em;
 		overflow: hidden;
 		background-color: #4F4F4F;
