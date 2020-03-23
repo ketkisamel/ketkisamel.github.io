@@ -101,7 +101,7 @@ input, select, textarea {
 	body {
 		/* background-color: #2e3141; */
 		background-image: url("../../images/IMG_6923.jpg");
-		background-size: 1024px,
+		background-size: cover,
  cover;
 		background-attachment: fixed,
  fixed;
