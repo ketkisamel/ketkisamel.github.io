@@ -104,8 +104,8 @@ input, select, textarea {
 		background-image: url("../../images/IMG_6923.jpg"), url("../../images/IMG_6923.jpg");
 		background-size: cover,
  cover;
-		background-attachment: fixed,
- fixed;
+		background-attachment: scroll,
+ scroll;
 		background-position: center,
  center;
 	}
