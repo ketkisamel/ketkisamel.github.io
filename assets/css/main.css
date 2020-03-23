@@ -91,11 +91,6 @@ input, select, textarea {
 	}
 
 	html {
-		background: url(images/IMG_6923.jpg) no-repeat center center fixed;
-		-webkit-background-size: cover;
-  		-moz-background-size: cover;
-  		-o-background-size: cover;
-  		background-size: cover;
 		box-sizing: border-box;
 
 	*, *:before, *:after {
@@ -103,14 +98,14 @@ input, select, textarea {
 	}
 
 	body {
-		/* background-color: #2e3141;
+		/* background-color: #2e3141; */
 		background-image: url("../../images/IMG_6923.jpg");
-		background-size: auto,
+		background-size: cover,
  cover;
 		background-attachment: fixed,
  fixed;
 		background-position: center,
- center; */
+ center;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
