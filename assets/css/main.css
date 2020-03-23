@@ -2708,7 +2708,7 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
 		-ms-transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
 		transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
-		background-color: #A09EA6;
+		background-color: #A6A6A6;
 		color: #FFFFFF;
 		position: fixed;
 		width: 100%;
@@ -2792,7 +2792,7 @@ input, select, textarea {
 					}
 
 					#nav ul li a.active {
-						background-color: #A09EA6;
+						background-color: #A6A6A6;
 						box-shadow: none;
 					}
 
