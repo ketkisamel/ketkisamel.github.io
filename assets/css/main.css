@@ -3566,6 +3566,14 @@ input, select, textarea {
 			filter: blur(2px);
 		}
 
+		body.is-preload #banner .icons {
+			-moz-transform: translateY(0.5em);
+			-webkit-transform: translateY(0.5em);
+			-ms-transform: translateY(0.5em);
+			transform: translateY(0.5em);
+			opacity: 0;
+		}
+
 /* Wrapper */
 
 	#wrapper > header {
