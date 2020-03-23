@@ -3566,6 +3566,17 @@ input, select, textarea {
 			-ms-filter: blur(2px);
 			filter: blur(2px);
 		}
+	
+		body.is-preload #banner icons {
+			opacity: 0;
+			-moz-transform: translateX(0.5em);
+			-webkit-transform: translateX(0.5em);
+			-ms-transform: translateX(0.5em);
+			transform: translateX(0.5em);
+			-moz-filter: blur(2px);
+			-webkit-filter: blur(2px);
+			-ms-filter: blur(2px);
+			filter: blur(2px);
 
 /* Wrapper */
 
