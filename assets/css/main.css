@@ -2708,6 +2708,7 @@ input, select, textarea {
 		-ms-transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
 		transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
 		background-color: #A09EA6;
+		overflow: hidden;
 		color: #FFFFFF;
 		position: fixed;
 		width: 100%;
