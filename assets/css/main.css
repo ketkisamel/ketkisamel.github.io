@@ -104,8 +104,8 @@ input, select, textarea {
 		background-image: url("../../images/IMG_6923.jpg"), url("../../images/IMG_6923.jpg");
 		background-size: cover,
  cover;
-		background-attachment: scroll,
- scroll;
+		background-attachment: cover,
+ cover;
 		background-position: center,
  center;
 	}
@@ -3421,10 +3421,10 @@ input, select, textarea {
 			-webkit-transform: translateX(0);
 			-ms-transform: translateX(0);
 			transform: translateX(0);
-			-moz-transition-delay: 0.95s;
-			-webkit-transition-delay: 0.95s;
-			-ms-transition-delay: 0.95s;
-			transition-delay: 0.95s;
+			-moz-transition-delay: 1s;
+			-webkit-transition-delay: 1s;
+			-ms-transition-delay: 1s;
+			transition-delay: 1s;
 			-moz-filter: blur(0);
 			-webkit-filter: blur(0);
 			-ms-filter: blur(0);
