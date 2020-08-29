@@ -2930,7 +2930,7 @@ input, select, textarea {
 			input[type="button"].primary:active,
 			button.primary:active,
 			.button.primary:active {
-				background-color: #45558d;
+				background-color: #4b4b65;
 			}
 
 			input[type="submit"].primary.icon:before,
@@ -3337,7 +3337,7 @@ input, select, textarea {
 				}
 
 					#menu .links li a:hover {
-						background: #45558d;
+						background: #4b4b65;
 					}
 
 		@media screen and (max-width: 736px) {
@@ -3856,7 +3856,7 @@ input, select, textarea {
 			}
 
 			.wrapper.spotlight.style2 {
-				background-color: #45558d;
+				background-color: #4b4b65;
 			}
 
 				.wrapper.spotlight.style2:before, .wrapper.spotlight.style2:after {
@@ -3864,11 +3864,11 @@ input, select, textarea {
 				}
 
 				.wrapper.spotlight.style2:before {
-					box-shadow: inset 0 -1px 0 0 #45558d, 0 1px 0 0 #45558d;
+					box-shadow: inset 0 -1px 0 0 #4b4b65, 0 1px 0 0 #4b4b65;
 				}
 
 				.wrapper.spotlight.style2:after {
-					box-shadow: inset 0 -1px 0 0 #45558d, 0 1px 0 0 #45558d;
+					box-shadow: inset 0 -1px 0 0 #4b4b65, 0 1px 0 0 #4b4b65;
 				}
 
 			.wrapper.spotlight.style3 {
