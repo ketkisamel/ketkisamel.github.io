@@ -3431,7 +3431,7 @@ input, select, textarea {
 			opacity: 1;
 			border-bottom: solid 2px rgba(64, 64, 86, 0.525);
 			font-size: 2.25em;
-			font-color: #404056;
+			color: #404056;
 			margin-bottom: 0.8em;
 			padding-bottom: 0.4em;
 		}
@@ -3455,7 +3455,7 @@ input, select, textarea {
 			filter: blur(0);
 			opacity: 1;
 			font-family: Raleway, Helvetica, sans-serif;
-			font-color: #404056;
+			color: #404056;
 			font-size: 1em;
 			font-weight: 200;
 			letter-spacing: 0.1em;
