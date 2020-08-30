@@ -4081,7 +4081,7 @@ input, select, textarea {
 		}
 
 			#footer .inner .copyright li {
-				border-left: solid 2px rgba(255, 255, 255, .525);
+				border-left: solid 2px rgba(64, 64, 86, .525);
 				color: rgba(64, 64, 86);
 				display: inline-block;
 				font-size: 0.9em;
