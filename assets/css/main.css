@@ -3456,6 +3456,7 @@ input, select, textarea {
 			filter: blur(0);
 			opacity: 1;
 			font-family: Raleway, Helvetica, sans-serif;
+			color: #404056;
 			font-size: 1em;
 			color: #404056;
 			font-weight: 200;
