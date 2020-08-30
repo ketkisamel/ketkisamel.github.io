@@ -3455,9 +3455,9 @@ input, select, textarea {
 			filter: blur(0);
 			opacity: 1;
 			font-family: Raleway, Helvetica, sans-serif;
-			color: #404056;
 			font-size: 1em;
 			font-weight: 200;
+			color: #404056;
 			letter-spacing: 0.1em;
 			line-height: 2;
 			text-transform: uppercase;
