@@ -2654,6 +2654,7 @@ input, select, textarea {
 			}
 
 			ul.icons li .icon:before {
+				color: #404056;
 				font-size: 1.25em;
 			}
 
