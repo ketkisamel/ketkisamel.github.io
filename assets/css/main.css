@@ -3588,8 +3588,9 @@ input, select, textarea {
 		}
 
 		#wrapper > header h2 {
-			border-bottom: solid 2px rgba(255, 255, 255, 0.125);
+			border-bottom: solid 2px rgba(64, 64, 86, 0.125);
 			font-size: 2em;
+			color: #404056;
 			margin-bottom: 0.8em;
 			padding-bottom: 0.4em;
 		}
@@ -3601,6 +3602,7 @@ input, select, textarea {
 			letter-spacing: 0.1em;
 			line-height: 2;
 			text-transform: uppercase;
+			color: #404056;
 		}
 
 	@media screen and (max-width: 1280px) {
